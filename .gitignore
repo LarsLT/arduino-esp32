@@ -55,3 +55,4 @@ libraries/Insights/examples/*/*.ino.zip
 # Ignore Lib Builder Docker run scripts
 /run.sh
 /run.ps1
+test.cpp
